@@ -11,7 +11,7 @@ do{
 
     cont = cont + 1;
     console.log("Exeutando do while...");
-}while(cont <= 10);
+}while(cont <= 9);
 //estrutura de repeticao for
 let i;
 for (i=0;i<10;i++){
